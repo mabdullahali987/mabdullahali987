@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI I’m a Flutter and full-stack web developer.<br>I enjoy building real-world projects and learning new technologies.<br> What I Know:<br>📱  Flutter & Dart <br>🌐Laravel  <br> JavaScript <br>💻 Python<br>🧠 Node.js, Express, MongoDB<br>🗃️ SQL & Database <br>🌐 HTML, CSS,  <br>🌐 WordPress
+HI I’m a Flutter and full-stack web developer.<br>I enjoy building real-world projects and learning new technologies.<br> What I Know:<br>📱  Flutter & Dart <br>🌐Laravel  <br>💻 JavaScript <br>💻 Python<br>🧠 Node.js, Express, MongoDB<br>🗃️ SQL & Database <br>🌐 HTML, CSS,  <br>🌐 WordPress
 
 
 # 💻 Tech Stack:
